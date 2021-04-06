@@ -13,7 +13,7 @@ the file here prints the below output
     "local_hostname" : "ip-10-251-50-12.ec2.internal",
     "public_hostname" : "ec2-203-0-113-25.compute-1.amazonaws.com",
     "reservation-id : "r-0efghijk987654321"
-    "security_groups" : "us-east-1a"
+    "security_groups" : "sg-1454"
 }
 
 we shall also use the /dynamic/instance-identity/document 
